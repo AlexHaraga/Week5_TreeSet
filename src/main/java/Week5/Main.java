@@ -16,6 +16,8 @@ public class Main {
         final Unemployed unemployed = new Unemployed("Name 3", "2345", 12);
 
         List<Person> persons = new ArrayList<>();
+        List<Person> persons2 = new ArrayList<>();
+
 
         System.out.println("ArrayList example");
 
